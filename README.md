@@ -1,0 +1,2 @@
+# mmaped_copy
+qwerty
